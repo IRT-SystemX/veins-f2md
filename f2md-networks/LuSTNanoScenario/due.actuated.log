@@ -1,0 +1,15 @@
+Loading net-file from '/home/joseph/Projects/F2MD/omnetpp-workspace/veins-f2md/networks/LuSTNanoScenario/lust.net.xml'... done (39ms).
+Loading additional-files from '/home/joseph/Projects/F2MD/omnetpp-workspace/veins-f2md/networks/LuSTNanoScenario/vtypes.add.xml'... done (1ms).
+Loading additional-files from '/home/joseph/Projects/F2MD/omnetpp-workspace/veins-f2md/networks/LuSTNanoScenario/lust.add.xml'... done (7ms).
+Loading additional-files from '/home/joseph/Projects/F2MD/omnetpp-workspace/veins-f2md/networks/LuSTNanoScenario/lust.poly.xml'... done (17ms).
+Loading done.
+Simulation started with time: 0.00
+Performance: 
+ Duration: 24791ms
+ Real time factor: 1314.31
+ UPS: 251557.379694
+Vehicles: 
+ Inserted: 6014 (Loaded: 6035)
+ Running: 81
+ Waiting: 0
+

@@ -1,0 +1,20 @@
+Loading net-file from '/home/joseph/F2MD/SumoTest/Extract Lust/LustFiltered/lust-filt.net.xml'... done (101ms).
+Warning: At actuated tlLogic '-13968', minDur 5.00 is too short for a detector gap of 33.34m.
+Warning: At actuated tlLogic '-16502', minDur 5.00 is too short for a detector gap of 33.34m.
+Warning: At actuated tlLogic '-29988', minDur 5.00 is too short for a detector gap of 33.34m.
+Warning: At actuated tlLogic '-3120', minDur 5.00 is too short for a detector gap of 33.34m.
+Warning: At actuated tlLogic '-8670', minDur 5.00 is too short for a detector gap of 38.88m.
+Loading additional-files from '/home/joseph/F2MD/SumoTest/Extract Lust/LustFiltered/vtypes.add.xml'... done (1ms).
+Loading additional-files from '/home/joseph/F2MD/SumoTest/Extract Lust/LustFiltered/lust-filt.add.xml'... done (14ms).
+Loading additional-files from '/home/joseph/F2MD/SumoTest/Extract Lust/LustFiltered/lust-filt.poly.xml'... done (55ms).
+Loading done.
+Simulation started with time: 0.00
+Performance: 
+ Duration: 59329ms
+ Real time factor: 425.714
+ UPS: 204510.610325
+Vehicles: 
+ Inserted: 6568 (Loaded: 6743)
+ Running: 312
+ Waiting: 0
+
